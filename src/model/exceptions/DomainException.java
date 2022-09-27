@@ -9,7 +9,7 @@ public class DomainException extends Exception {
 	 * 	RuntimeException - compilador não obriga a tratar exceção
 	 * 	
 	 * 	The serializable class DomainException does not declare a static final
-	 * 	serialVersionUID field of type lon
+	 * 	serialVersionUID field of type long
 	 * 
 	 * 
 	 * */
